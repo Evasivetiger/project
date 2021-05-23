@@ -11,5 +11,27 @@ body{
 }
 
 #kezdolap{
-    width: 20%;
+    width: 90%;
+}
+
+#elso{
+    font-size: 20px;
+}
+
+#masodik{
+    font-size: 20px;
+    color: black;
+    -webkit-text-stroke: 0.5px white;
+}
+
+a:link{
+    color: blue
+}
+
+a:visited{
+    color:red;
+}
+
+a:hover{
+    color: purple;
 }
